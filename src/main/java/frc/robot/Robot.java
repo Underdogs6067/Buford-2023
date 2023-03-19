@@ -3,7 +3,7 @@
 // the WPILib BSD license file in the root directory of this project.
 
 package frc.robot;
-//Carter's weird
+//Carter's weird and smelly
 //import com.ctre.phoenix.motorcontrol.can.VictorSPX;
 
 //import com.ctre.phoenix.motorcontrol.ControlMode;
